@@ -1,8 +1,6 @@
 # Feed-Forward-Neural-Network-via-Tensorflow
 
-<center>
 ![Pictures](Pictures/new_mlp.jpeg)
-</center>
 
 A feedforward neural network is an artificial neural network wherein connections between the units do not form a cycle. The feedforward neural network was the first and simplest type of artificial neural network devised. In this network, the information moves in only one direction, forward, from the input nodes, through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network.
 
